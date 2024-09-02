@@ -1,0 +1,16 @@
+{
+    "main_title": "Zastavárna",
+    "button1": "Prodat věci",
+    "button2": "Nakoupit věci",
+    "description": "Zde můžeš prodat věci",
+    "description2": "Zde můžeš nakouit věci",
+    "description3": "Minimální počet kusů pro prodej jest 10",
+    "title": "Rolex hodinky",
+    "title2": "Šperky",
+    "title3": "Laptop",
+    "title_sell": "Mobil",
+    "price": "Cena jest 2000$",
+    "title_sell2": "Vysílačka",
+    "price2": "Cena jest 1500$",
+    "error": "Nemáte potřebné itemy!"
+  }

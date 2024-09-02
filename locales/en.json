@@ -1,0 +1,17 @@
+{
+    "main_title": "Pawn Shop",
+    "button1": "Sell things",
+    "button2": "Buy things",
+    "description": "Here you can sell things",
+    "description2": "Here you can buy things",
+    "description3": "The minimum number of pieces for sale is 10",
+    "title": "Rolex watchec",
+    "title2": "Jewellery",
+    "title3": "Laptop",
+    "title_sell": "Phone",
+    "price": "Price is 2000$",
+    "title_sell2": "Radio",
+    "price2": "Price is 1500$",
+    "error": "You don´t have enought items for that!"
+    
+}
